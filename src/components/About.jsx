@@ -11,14 +11,13 @@ const About = () => (
       <div>
         <img src={timer} alt='icon' className="w-[50px] h-[50px]" />
         <h2 className={`text-white ${styles.heading3}`}>
-          Don’t just engage, make it <br/>
-damn engaging.
+        Premier platform for intra  <br/>
+        communication needs.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] my-5`}>
-      Sales teams use PandaDoc to improve deal workflow, insights, and speed while delivering an amazing buying experience. Get your documents out the door fast to keep deals.
-      </p>
+        We understand that in today's fast-paced business world, effective communication is crucial to success. That's why we've created a centralized hub where you can streamline your company's communications and keep your team on the same page. Our intuitive interface and powerful tools make it easy to send messages, share files, and collaborate with colleagues from anywhere in the world. With Mintranet, you'll never miss an important update or lose track of a critical project      </p>
       <a className={`${styles.link} my-5 cursor-pointer`}>
-        Explore this now
+        Join Waitlist
       </a>
       </div>
     </div>
@@ -36,14 +35,13 @@ damn engaging.
       <div className={` ${styles.paddingY} md:my-0 ml-20 my-10 relative`}>
       <img src={timer} alt='icon' className="w-[50px] h-[50px]" />
         <h2 className={`text-white ${styles.heading3}`}>
-        Workflow that works for <br/>
-your benefit.
+        We Revolutionize due <br/>
+to Passion.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] my-5`}>
-      Sales teams use PandaDoc to improve deal workflow, insights, and speed while delivering an amazing buying experience. Get your documents out the door fast to keep deals.
-      </p>
+        We believe that effective communication is the key to unlocking success, and our mission is to provide companies of all sizes with the tools they need to streamline their communications and stay ahead of the competition. Our team is dedicated to creating a user-friendly platform that's easy to use, even for those with little to no technical expertise. We're constantly improving our platform and adding new features to ensure that our clients have access to the latest and greatest in internal communication technology. Join us today and take the first step towards transforming the way your team communicates.      </p>
       <a className={`${styles.link} my-5 cursor-pointer`}>
-        Explore this now
+        Join Waitlist
       </a>
       </div>
     </div>

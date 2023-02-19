@@ -24,15 +24,15 @@ const Features = () =>  (
   <section id="features" className={`${layout.section} mobile-padding`}>
     <div className={layout.sectionInfo}>
     <p className={`text-white ${styles.paragraph} mb-4 bg-secondary px-3 py-2 rounded-[30px]`}>
-        Our awesome features
+        Who we really are
       </p>
       <h2 className={styles.heading3}>
-      Our features will help
- <br className="sm:block hidden" /> to <span className="font-[200]">  improve business </span>
+     Dataless, Seamless
+ <br className="sm:block hidden" /> way <span className="font-[200]">  to Collaborate </span>
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] my-5`}>
-      Sales teams use PandaDoc to improve deal workflow, insights, and speed while delivering an amazing buying experience. Get your documents out the door fast to keep deals.
-      </p>
+      At Mintranet, we understand the importance of efficient and effective communication within your organization. That's why we've developed a powerful platform that helps streamline internal communication, enhance collaboration, and boost productivity.
+</p>
       <Button/>
     </div>
 

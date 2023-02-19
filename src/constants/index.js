@@ -7,7 +7,7 @@ export const navLinks = [
   },
   {
     id: "service",
-    title: "Services",
+    title: "Features",
   },
   {
     id: "about",
@@ -15,7 +15,7 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Who we Are",
   },
   {
     id: "team",
@@ -27,23 +27,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Web/App Development",
+    title: "Mission",
     content:
-      "Create stunning, effective sales documents with custom-designed theme & template.",
+      "Our mission is to provide organizations with a secure and efficient means of sharing data within their local network, enabling them to collaborate and improve overall performance. ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "UI/UX Design",
+    title: "Vision",
     content:
-      "Create stunning, effective sales documents with custom-designed theme & template.",
+      "Our vision is to become the leading provider of mini intra-network solutions, known for our commitment to security, efficiency, and user experience.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Branding/Design",
+    title: "Core Values",
     content:
-      "Create stunning, effective sales documents with custom-designed theme & template.",
+      "At Mintranet, we prioritize the security of our users' data while providing an efficient and seamless data sharing experience, fostering better communication and collaboration among users within organizations, and continuously innovating to meet the evolving needs of our users.",
   },
 ];
 
